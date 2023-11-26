@@ -1,2 +1,3 @@
 # Bad-Apple-Of-8051
-在8051单片机上使用8*8LED点阵播放Bad Apple。(Use 8 * 8 LED dot matrix to play Bad Apple on the 8051 microcontroller.)
+在8051单片机上使用8*8LED点阵播放Bad Apple。
+本程序基于STC89C516RD+单片机运行，若想使用STC89C52RC等存储量较小的单片机运行程序，请适当删减播放长度以保证程序能保证程序完整。

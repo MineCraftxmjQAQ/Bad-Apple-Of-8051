@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\Bad Apple.obj" 
+TO ".\Objects\Bad Apple" 
+PRINT(".\Listings\Bad Apple.m51") RAMSIZE(256) 
